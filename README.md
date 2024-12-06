@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @naylahuyne
-- 🌱 I’m currently learning Java, Data structure and Algorithm.
+- 🌱 Feeling stupid, anw
 
 <!---
 naylahuyne/naylahuyne is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
